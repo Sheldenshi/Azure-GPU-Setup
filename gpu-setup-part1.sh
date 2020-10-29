@@ -2,7 +2,7 @@
 sudo add-apt-repository -y ppa:deadsnakes/ppa
 sudo apt-get -y update
 sudo apt-get -y install python3.6
-sudo apt-get -y install python-pip
+sudo apt-get -y install python3-pip
 sudo pip install --upgrade virtualenv
 sudo apt-get install -y python3-venv
 sudo apt-get -y install openjdk-8-jdk git python-dev python3-dev python-numpy python3-numpy build-essential python-pip python3-pip python-virtualenv swig python-wheel libcurl3-dev curl
