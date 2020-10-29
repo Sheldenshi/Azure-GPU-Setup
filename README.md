@@ -3,10 +3,6 @@
 ```
 git clone https://github.com/Sheldenshi/Azure-GPU-Setup.git
 ```
-Add execution permission for the setup scripts:
-```
-chmod +x *.sh
-```
 if Permission denied, run:
 ```
 sudo -s
@@ -14,6 +10,10 @@ sudo -s
 2. cd into the cloned repo:
 ```
 cd Azure-GPU-Setup
+```
+Add execution permission for the setup scripts:
+```
+chmod +x *.sh
 ```
 3. Run the first setup script:
 ```
